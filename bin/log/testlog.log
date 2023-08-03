@@ -1,0 +1,202 @@
+2023-03-04 12:51:24,831 - OpenCart automation  -INFO - Execution Started
+2023-03-04 12:52:17,040 - OpenCart automation  -INFO - Test is start: validateUserLoginWithValidCradential
+2023-03-04 12:52:17,059 - OpenCart automation  -INFO - Test is Skip: validateUserLoginWithValidCradential
+2023-03-04 12:53:17,312 - OpenCart automation  -INFO - Browser launch
+2023-03-04 12:53:24,661 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 12:53:24,672 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-04 12:53:34,539 - OpenCart automation  -INFO - Test is fail: validateRegisterPager
+2023-03-04 12:53:36,687 - OpenCart automation  -INFO - Browser Close
+2023-03-04 12:53:36,695 - OpenCart automation  -INFO - Execution completed
+2023-03-04 13:18:17,522 - OpenCart automation  -INFO - Execution Started
+2023-03-04 13:18:56,437 - OpenCart automation  -INFO - Browser launch
+2023-03-04 13:19:05,361 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 13:19:05,401 - OpenCart automation  -INFO - Test is start: validateUserLoginWithValidCradential
+2023-03-04 13:19:05,743 - OpenCart automation  -INFO - Object creation homepage, login page, util class
+2023-03-04 13:19:09,543 - OpenCart automation  -INFO - login page open
+2023-03-04 13:19:13,558 - OpenCart automation  -INFO - login details enter and click on login button.
+2023-03-04 13:19:13,591 - OpenCart automation  -INFO - Actual and Ecpected result match
+2023-03-04 13:19:13,604 - OpenCart automation  -INFO - Test is success: validateUserLoginWithValidCradential
+2023-03-04 13:19:14,555 - OpenCart automation  -INFO - Browser Close
+2023-03-04 13:19:20,104 - OpenCart automation  -INFO - Browser launch
+2023-03-04 13:19:31,624 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 13:19:31,637 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-04 13:19:31,645 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-04 13:19:33,970 - OpenCart automation  -INFO - Register page open
+2023-03-04 13:19:41,806 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-04 13:19:41,910 - OpenCart automation  -INFO - actual and expected result match.
+2023-03-04 13:19:41,918 - OpenCart automation  -INFO - Test is success: validateRegisterPager
+2023-03-04 13:19:42,871 - OpenCart automation  -INFO - Browser Close
+2023-03-04 13:19:42,874 - OpenCart automation  -INFO - Execution completed
+2023-03-04 16:37:43,920 - OpenCart automation  -INFO - Execution Started
+2023-03-04 16:38:16,189 - OpenCart automation  -INFO - Execution completed
+2023-03-04 16:45:38,720 - OpenCart automation  -INFO - Execution Started
+2023-03-04 16:46:26,560 - OpenCart automation  -INFO - Browser launch
+2023-03-04 16:46:32,949 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 16:46:33,791 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-04 16:46:37,015 - OpenCart automation  -INFO - Register page open
+2023-03-04 16:46:42,136 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-04 16:46:43,940 - OpenCart automation  -INFO - Browser Close
+2023-03-04 16:46:44,027 - OpenCart automation  -INFO - Execution completed
+2023-03-04 16:50:02,281 - OpenCart automation  -INFO - Execution Started
+2023-03-04 16:50:27,395 - OpenCart automation  -INFO - Browser launch
+2023-03-04 16:50:42,667 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 16:50:42,837 - OpenCart automation  -INFO - Test is start: validateUserLoginWithValidCradential
+2023-03-04 16:50:43,558 - OpenCart automation  -INFO - Object creation homepage, login page, util class
+2023-03-04 16:50:48,111 - OpenCart automation  -INFO - login page open
+2023-03-04 16:50:52,942 - OpenCart automation  -INFO - login details enter and click on login button.
+2023-03-04 16:50:53,041 - OpenCart automation  -INFO - Actual and Ecpected result match
+2023-03-04 16:50:53,073 - OpenCart automation  -INFO - Test is success: validateUserLoginWithValidCradential
+2023-03-04 16:50:55,328 - OpenCart automation  -INFO - Browser Close
+2023-03-04 16:51:05,360 - OpenCart automation  -INFO - Browser launch
+2023-03-04 16:51:19,895 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 16:51:19,905 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-04 16:51:19,975 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-04 16:51:23,370 - OpenCart automation  -INFO - Register page open
+2023-03-04 16:51:31,574 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-04 16:51:31,916 - OpenCart automation  -INFO - Test is fail: validateRegisterPager
+2023-03-04 16:51:36,826 - OpenCart automation  -INFO - Browser Close
+2023-03-04 16:51:36,831 - OpenCart automation  -INFO - Execution completed
+2023-03-04 23:09:27,541 - OpenCart automation  -INFO - Execution Started
+2023-03-04 23:09:52,175 - OpenCart automation  -INFO - Browser launch
+2023-03-04 23:10:01,356 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 23:10:01,451 - OpenCart automation  -INFO - Test is start: validateUserLoginWithValidCradential
+2023-03-04 23:10:01,966 - OpenCart automation  -INFO - Object creation homepage, login page, util class
+2023-03-04 23:10:03,298 - OpenCart automation  -INFO - login page open
+2023-03-04 23:10:08,615 - OpenCart automation  -INFO - login details enter and click on login button.
+2023-03-04 23:10:08,649 - OpenCart automation  -INFO - Actual and Ecpected result match
+2023-03-04 23:10:08,663 - OpenCart automation  -INFO - Test is success: validateUserLoginWithValidCradential
+2023-03-04 23:10:09,659 - OpenCart automation  -INFO - Browser Close
+2023-03-04 23:10:16,176 - OpenCart automation  -INFO - Browser launch
+2023-03-04 23:10:28,832 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-04 23:10:28,842 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-04 23:10:28,871 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-04 23:10:30,509 - OpenCart automation  -INFO - Register page open
+2023-03-04 23:10:33,983 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-04 23:10:34,270 - OpenCart automation  -INFO - Test is fail: validateRegisterPager
+2023-03-04 23:10:35,728 - OpenCart automation  -INFO - Browser Close
+2023-03-04 23:10:35,732 - OpenCart automation  -INFO - Execution completed
+2023-03-26 09:50:47,745 - OpenCart automation  -INFO - Execution Started
+2023-03-26 09:51:19,892 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-26 09:51:19,909 - OpenCart automation  -INFO - Test is Skip: validateRegisterPager
+2023-03-26 09:51:19,933 - OpenCart automation  -INFO - Execution completed
+2023-03-26 09:51:37,969 - OpenCart automation  -INFO - Execution Started
+2023-03-26 09:52:42,858 - OpenCart automation  -INFO - Browser launch
+2023-03-26 09:52:59,429 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 09:52:59,542 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-26 09:53:00,297 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 09:53:08,282 - OpenCart automation  -INFO - Register page open
+2023-03-26 09:53:26,127 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 09:53:26,402 - OpenCart automation  -INFO - actual and expected result match.
+2023-03-26 09:53:26,432 - OpenCart automation  -INFO - Test is success: validateRegisterPager
+2023-03-26 09:53:27,698 - OpenCart automation  -INFO - Browser Close
+2023-03-26 09:53:27,755 - OpenCart automation  -INFO - Execution completed
+2023-03-26 09:55:47,555 - OpenCart automation  -INFO - Execution Started
+2023-03-26 09:56:07,272 - OpenCart automation  -INFO - Browser launch
+2023-03-26 09:56:17,089 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 09:56:17,189 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-26 09:56:17,672 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 09:56:24,746 - OpenCart automation  -INFO - Register page open
+2023-03-26 09:56:48,842 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 09:56:49,527 - OpenCart automation  -INFO - Test is fail: validateRegisterPager
+2023-03-26 09:56:57,738 - OpenCart automation  -INFO - Browser Close
+2023-03-26 09:56:57,784 - OpenCart automation  -INFO - Execution completed
+2023-03-26 10:29:24,775 - OpenCart automation  -INFO - Execution Started
+2023-03-26 10:30:15,488 - OpenCart automation  -INFO - Browser launch
+2023-03-26 10:30:27,730 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 10:30:27,835 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-03-26 10:30:28,386 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 10:30:32,885 - OpenCart automation  -INFO - Register page open
+2023-03-26 10:30:53,318 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 10:30:53,474 - OpenCart automation  -INFO - Test is fail: validateRegisterPager
+2023-03-26 10:30:56,710 - OpenCart automation  -INFO - Browser Close
+2023-03-26 10:30:56,743 - OpenCart automation  -INFO - Execution completed
+2023-03-26 10:43:17,921 - OpenCart automation  -INFO - Execution Started
+2023-03-26 10:43:58,234 - OpenCart automation  -INFO - Browser launch
+2023-03-26 10:44:07,633 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 10:44:07,907 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 10:44:12,510 - OpenCart automation  -INFO - Register page open
+2023-03-26 10:44:28,024 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 10:44:29,551 - OpenCart automation  -INFO - Browser Close
+2023-03-26 10:44:29,564 - OpenCart automation  -INFO - Execution completed
+2023-03-26 11:40:15,573 - OpenCart automation  -INFO - Execution Started
+2023-03-26 11:41:41,079 - OpenCart automation  -INFO - Browser launch
+2023-03-26 11:41:57,488 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 11:41:57,873 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 11:42:01,398 - OpenCart automation  -INFO - Register page open
+2023-03-26 11:42:17,176 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 11:42:18,807 - OpenCart automation  -INFO - Browser Close
+2023-03-26 11:42:18,884 - OpenCart automation  -INFO - Execution completed
+2023-03-26 12:11:30,325 - OpenCart automation  -INFO - Execution Started
+2023-03-26 12:12:29,455 - OpenCart automation  -INFO - Browser launch
+2023-03-26 12:12:39,474 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 12:12:40,078 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 12:12:46,480 - OpenCart automation  -INFO - Register page open
+2023-03-26 12:13:06,064 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 12:13:09,578 - OpenCart automation  -INFO - Browser Close
+2023-03-26 12:13:09,631 - OpenCart automation  -INFO - Execution completed
+2023-03-26 12:18:26,693 - OpenCart automation  -INFO - Execution Started
+2023-03-26 12:19:05,659 - OpenCart automation  -INFO - Browser launch
+2023-03-26 12:19:14,887 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 12:19:16,045 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 12:19:20,609 - OpenCart automation  -INFO - Register page open
+2023-03-26 12:19:37,157 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 12:19:38,777 - OpenCart automation  -INFO - Browser Close
+2023-03-26 12:19:38,830 - OpenCart automation  -INFO - Execution completed
+2023-03-26 12:46:23,540 - OpenCart automation  -INFO - Execution Started
+2023-03-26 12:47:49,657 - OpenCart automation  -INFO - Browser launch
+2023-03-26 12:48:01,417 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 12:48:01,757 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 12:48:07,570 - OpenCart automation  -INFO - Register page open
+2023-03-26 12:48:31,564 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 12:48:33,609 - OpenCart automation  -INFO - Browser Close
+2023-03-26 12:48:33,641 - OpenCart automation  -INFO - Execution completed
+2023-03-26 12:54:20,372 - OpenCart automation  -INFO - Execution Started
+2023-03-26 12:55:13,075 - OpenCart automation  -INFO - Browser launch
+2023-03-26 12:55:28,237 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 12:55:28,940 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 12:55:32,441 - OpenCart automation  -INFO - Register page open
+2023-03-26 12:55:51,243 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 12:55:53,160 - OpenCart automation  -INFO - Browser Close
+2023-03-26 12:55:53,177 - OpenCart automation  -INFO - Execution completed
+2023-03-26 20:57:14,090 - OpenCart automation  -INFO - Execution Started
+2023-03-26 20:59:13,310 - OpenCart automation  -INFO - Browser launch
+2023-03-26 20:59:28,906 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-26 20:59:29,278 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-26 20:59:33,865 - OpenCart automation  -INFO - Register page open
+2023-03-26 20:59:59,982 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-26 21:00:02,598 - OpenCart automation  -INFO - Browser Close
+2023-03-26 21:00:02,635 - OpenCart automation  -INFO - Execution completed
+2023-03-27 06:43:44,179 - OpenCart automation  -INFO - Execution Started
+2023-03-27 06:45:06,814 - OpenCart automation  -INFO - Browser launch
+2023-03-27 06:45:14,155 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-27 06:45:14,527 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-27 06:45:19,066 - OpenCart automation  -INFO - Register page open
+2023-03-27 06:45:39,852 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-27 06:45:45,751 - OpenCart automation  -INFO - Browser Close
+2023-03-27 06:45:45,890 - OpenCart automation  -INFO - Execution completed
+2023-03-27 08:52:16,243 - OpenCart automation  -INFO - Execution Started
+2023-03-27 08:53:36,101 - OpenCart automation  -INFO - Browser launch
+2023-03-27 08:53:47,380 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-27 08:53:47,958 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-27 08:53:56,923 - OpenCart automation  -INFO - Register page open
+2023-03-27 08:54:17,819 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-27 08:54:19,918 - OpenCart automation  -INFO - Browser Close
+2023-03-27 08:54:19,957 - OpenCart automation  -INFO - Execution completed
+2023-03-27 09:08:45,599 - OpenCart automation  -INFO - Execution Started
+2023-03-27 09:09:09,646 - OpenCart automation  -INFO - Browser launch
+2023-03-27 09:09:17,305 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-03-27 09:09:17,829 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-03-27 09:09:20,311 - OpenCart automation  -INFO - Register page open
+2023-03-27 09:09:37,475 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-03-27 09:09:39,165 - OpenCart automation  -INFO - Browser Close
+2023-03-27 09:09:39,180 - OpenCart automation  -INFO - Execution completed
+2023-04-06 23:54:52,610 - OpenCart automation  -INFO - Execution Started
+2023-04-06 23:55:00,855 - OpenCart automation  -INFO - Browser launch
+2023-04-06 23:55:11,901 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-04-06 23:55:12,020 - OpenCart automation  -INFO - Test is start: validateRegisterPager
+2023-04-06 23:55:12,733 - OpenCart automation  -INFO - Object created for homepage, Registerpage, util page.
+2023-04-06 23:55:18,910 - OpenCart automation  -INFO - Register page open
+2023-04-06 23:55:30,988 - OpenCart automation  -INFO - all user information provided on registor page.
+2023-04-06 23:55:31,069 - OpenCart automation  -INFO - Test is fail: validateRegisterPager
+2023-04-06 23:55:31,086 - OpenCart automation  -INFO - Test is fail: validateRegisterPager
+2023-04-06 23:55:31,094 - OpenCart automation  -INFO - Execution completed
