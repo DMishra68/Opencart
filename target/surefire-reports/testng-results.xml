@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-03T09:37:25 IST" name="Surefire suite" finished-at="2023-08-03T09:39:07 IST" duration-ms="101901">
+  <suite started-at="2023-08-03T10:15:11 IST" name="Surefire suite" finished-at="2023-08-03T10:16:58 IST" duration-ms="107126">
     <groups>
     </groups>
-    <test started-at="2023-08-03T09:37:25 IST" name="Surefire test" finished-at="2023-08-03T09:39:07 IST" duration-ms="101901">
+    <test started-at="2023-08-03T10:15:11 IST" name="Surefire test" finished-at="2023-08-03T10:16:58 IST" duration-ms="107126">
       <class name="com.opencart.testLayer.LoginPageTest">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T09:37:25 IST" name="start" finished-at="2023-08-03T09:37:25 IST" duration-ms="173" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T10:15:11 IST" name="start" finished-at="2023-08-03T10:15:11 IST" duration-ms="192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T09:37:25 IST" name="setup" finished-at="2023-08-03T09:39:03 IST" duration-ms="98357" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T10:15:11 IST" name="setup" finished-at="2023-08-03T10:16:54 IST" duration-ms="102435" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validateUserLoginWithValidCradential()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T09:39:03 IST" name="validateUserLoginWithValidCradential" finished-at="2023-08-03T09:39:06 IST" duration-ms="2442" status="PASS">
+        <test-method signature="validateUserLoginWithValidCradential()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T10:16:54 IST" name="validateUserLoginWithValidCradential" finished-at="2023-08-03T10:16:58 IST" duration-ms="3926" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateUserLoginWithValidCradential -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T09:39:06 IST" name="tearDown" finished-at="2023-08-03T09:39:07 IST" duration-ms="859" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T10:16:58 IST" name="tearDown" finished-at="2023-08-03T10:16:58 IST" duration-ms="516" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="end()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T09:39:07 IST" name="end" finished-at="2023-08-03T09:39:07 IST" duration-ms="6" status="PASS">
+        <test-method is-config="true" signature="end()[pri:0, instance:com.opencart.testLayer.LoginPageTest@4df828d7]" started-at="2023-08-03T10:16:58 IST" name="end" finished-at="2023-08-03T10:16:58 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->

@@ -250,3 +250,30 @@
 2023-08-03 09:39:06,189 - OpenCart automation  -INFO - Actual and Ecpected result match
 2023-08-03 09:39:07,059 - OpenCart automation  -INFO - Browser Close
 2023-08-03 09:39:07,073 - OpenCart automation  -INFO - Execution completed
+2023-08-03 09:53:17,156 - OpenCart automation  -INFO - Execution Started
+2023-08-03 09:54:54,884 - OpenCart automation  -INFO - Browser launch
+2023-08-03 09:55:02,534 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-08-03 09:55:02,718 - OpenCart automation  -INFO - Object creation homepage, login page, util class
+2023-08-03 09:55:04,867 - OpenCart automation  -INFO - login page open
+2023-08-03 09:55:06,997 - OpenCart automation  -INFO - login details enter and click on login button.
+2023-08-03 09:55:07,241 - OpenCart automation  -INFO - Actual and Ecpected result match
+2023-08-03 09:55:07,938 - OpenCart automation  -INFO - Browser Close
+2023-08-03 09:55:07,942 - OpenCart automation  -INFO - Execution completed
+2023-08-03 10:05:28,386 - OpenCart automation  -INFO - Execution Started
+2023-08-03 10:07:02,793 - OpenCart automation  -INFO - Browser launch
+2023-08-03 10:07:07,597 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-08-03 10:07:07,715 - OpenCart automation  -INFO - Object creation homepage, login page, util class
+2023-08-03 10:07:08,838 - OpenCart automation  -INFO - login page open
+2023-08-03 10:07:10,139 - OpenCart automation  -INFO - login details enter and click on login button.
+2023-08-03 10:07:10,246 - OpenCart automation  -INFO - Actual and Ecpected result match
+2023-08-03 10:07:11,601 - OpenCart automation  -INFO - Browser Close
+2023-08-03 10:07:11,611 - OpenCart automation  -INFO - Execution completed
+2023-08-03 10:15:11,909 - OpenCart automation  -INFO - Execution Started
+2023-08-03 10:16:46,574 - OpenCart automation  -INFO - Browser launch
+2023-08-03 10:16:54,415 - OpenCart automation  -INFO - Url hit, cookies delete, window maximize, implicit wait provided.
+2023-08-03 10:16:54,576 - OpenCart automation  -INFO - Object creation homepage, login page, util class
+2023-08-03 10:16:56,605 - OpenCart automation  -INFO - login page open
+2023-08-03 10:16:58,303 - OpenCart automation  -INFO - login details enter and click on login button.
+2023-08-03 10:16:58,345 - OpenCart automation  -INFO - Actual and Ecpected result match
+2023-08-03 10:16:58,868 - OpenCart automation  -INFO - Browser Close
+2023-08-03 10:16:58,875 - OpenCart automation  -INFO - Execution completed
